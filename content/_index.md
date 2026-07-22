@@ -10,7 +10,7 @@ chapter: false
 
 &emsp; **Full Name:** Bui Hong Sinh
 
-&emsp; **Phone Number:** 00909268317
+&emsp; **Phone Number:** 0909268317
 
 &emsp; **Email:** buihongsinh1012@gmail.com
 
