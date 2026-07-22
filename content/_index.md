@@ -8,13 +8,13 @@ chapter: false
 
 ### Student Information:
 
-&emsp; **Full Name:** Nguyen Anh Quan
+&emsp; **Full Name:** Bui Hong Sinh
 
-&emsp; **Phone Number:** 0365052393
+&emsp; **Phone Number:** 00909268317
 
-&emsp; **Email:** quan2203tb17@gmail.com
+&emsp; **Email:** buihongsinh1012@gmail.com
 
-&emsp; **Student ID:** 2280602588
+&emsp; **Student ID:** 2280602735
 
 &emsp; **University:** HUTECH University of Technology
 

@@ -8,13 +8,13 @@ chapter: false
 
 ### Thông tin sinh viên:
 
-&emsp; **Họ và tên:** Nguyễn Anh Quân
+&emsp; **Họ và tên:** Bùi Hồng Sinh
 
-&emsp; **Số điện thoại:** 0365052393
+&emsp; **Số điện thoại:** 0909268317
 
-&emsp; **Email:** quan2203tb17@gmail.com
+&emsp; **Email:** buihongsinh1012@gmail.com
 
-&emsp; **Mã Số Sinh Viên:** 2280602588
+&emsp; **Mã Số Sinh Viên:** 2280602735
 
 &emsp; **Trường:** Đại học Công Nghệ Thành Phố Hồ Chí Minh (HUTECH)
 
