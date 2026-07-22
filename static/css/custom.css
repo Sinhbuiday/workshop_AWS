@@ -1,0 +1,60 @@
+.highlight-code {
+  color: #CD5C5C; /* Màu đỏ */
+  font-family: monospace; /* Font chữ cố định */
+  /* Thêm các thuộc tính khác nếu muốn: background-color, padding, border-radius, v.v. */
+  background-color: #f7f7f7; /* Ví dụ: nền xám nhạt */
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+ul {
+  padding-left: 20px; /* Thêm padding vào bên trái danh sách */
+}
+
+ul ul {
+  padding-left: 20px; /* Đảm bảo danh sách lồng nhau vẫn có padding */
+}
+
+.author-bio-container {
+    display: flex; /* Bật Flexbox */
+    align-items: center; /* Căn chỉnh nội dung theo chiều dọc (center) */
+    margin-top: 20px;
+    gap: 15px; /* Tạo khoảng cách giữa ảnh và chữ */
+}
+
+.author-bio-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    /* Bỏ float: left */
+}
+
+/* Buộc chữ in đậm hiển thị đúng trong toàn bộ nội dung */
+strong, b {
+    font-weight: bold !important;
+}
+
+/* Tùy chọn: Nếu chữ in đậm là một phần của list hoặc đoạn code: */
+li strong, p strong, code strong {
+    font-weight: bold !important;
+}
+
+/* Buộc danh sách đánh số thụt lề cơ bản */
+ol {
+    padding-left: 30px !important;
+}
+
+/* Quy tắc QUAN TRỌNG: 
+   Tất cả các danh sách (ul hoặc ol) nằm bên trong một danh sách khác 
+   sẽ được thêm khoảng đệm bên trái (thụt lề).
+*/
+ol ul, ol ol, ul ul, ul ol {
+    /* Đảm bảo chúng có thêm một khoảng thụt lề nữa */
+    padding-left: 30px !important; 
+}
+
+/* Màu xám đậm cho thông tin bài viết/tác giả */
+.meta-info {
+    color: #666666 !important; /* Màu xám đậm. Bạn có thể thử #555555 nếu muốn đậm hơn */
+    font-size: 0.95em; /* Tùy chọn: làm chữ nhỏ hơn một chút so với văn bản chính */
+}

@@ -1,0 +1,10 @@
+<div class="author-bio-container">
+    <img src="{{ .Get "img" }}" 
+         class="author-bio-image"
+         alt="{{ .Get "name" }}">
+    
+    <div> 
+        {{ .Inner | markdownify }}
+    </div>
+    
+</div>
