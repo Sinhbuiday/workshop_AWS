@@ -9,8 +9,8 @@ pre: " <b> 5.7. </b> "
 
 ## Workshop Recording 🔗
 
-- [Workshop website](http://hocvien.online/)
-- [Workshop demo video](https://www.youtube.com/watch?v=j8ZJqfsTYlw)
+- [Workshop recording](http://hocvien.online/)
+- [Watch the demo on YouTube](https://www.youtube.com/watch?v=j8ZJqfsTYlw)
 
 ---
 
