@@ -9,7 +9,6 @@ pre: " <b> 5.7. </b> "
 
 ## Workshop Recording 🔗
 
-- [Link recording workshop](http://hocvien.online/)
 - [Xem demo trên YouTube](https://www.youtube.com/watch?v=j8ZJqfsTYlw)
 
 ---
